@@ -1,30 +1,18 @@
-# React + TypeScript + Vite
+# Ip Finder | 知識 🗺️🔎
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a react app to discover your ip address and other informations about it.
+The application is in "work in progress".
 
-Currently, two official plugins are available:
+## How to start? 🚩
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Just download the project and navigate into the folder type `npm i`, after that just type `npm start` and a local server would be loaded. After few seconds a web page will be loaded and the application will show you the data of your ip.
 
-## Expanding the ESLint configuration
+## Future features ⚙️
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Get information about other ip.
+- Login / Sign Up functions.
+- Save informations about an address in a personal area.
 
-- Configure the top-level `parserOptions` property like this:
+## Contribute 🫂
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+You can contribute too, remember to attribute the creators of the icons: [Pixel perfect](www.flaticon.com).
