@@ -1,4 +1,4 @@
-# Ip Finder | 知識 🗺️🔎
+# Ip Info | 知識 🗺️🔎
 
 This is a react app to discover your ip address and other informations about it.
 The application is in "work in progress".
