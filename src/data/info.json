@@ -1,0 +1,14 @@
+[
+    {
+        "info": ["Creazione", "Questa web app è stata realizzata grazie a ReactJS, le icone sono fatte da Pixel perfect da www.flaticon.com."]
+    },
+    {
+        "info": ["Tecnologie", "I dati sono forniti dal sito ipapi.co con il piano FREE, ovvero un numero limitato al mese."]
+    },
+    {
+        "info": ["Uso", "Attualmente puoi visionare tutti i dati relativi al tuo indirizzo. In futuro sarà aggiunta la possibilità di visionarne altri."]
+    },
+    {
+        "info": ["Sviluppo", "Attualmente il sito è ancora in WIP molte funzioni sono ancora limitate. Saranno aggiunte funzioni come login e salvre nei preferiti un indirizzo."]
+    }
+]
